@@ -1,0 +1,13 @@
+{
+  "name": "MVC-framework",
+  "authors": [
+    "Alberto <Alberto@socialpymesvlc.es>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
